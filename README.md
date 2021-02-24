@@ -1,6 +1,9 @@
-# Bittrex for Ruby
 
-Super basic Bittrex API v2 wrapper for Ruby.
-Please see a Python example here https://github.com/mondeja/bittrex_v2 for more details.
+# What is Pair Trading?
 
+https://github.com/jerrytigerxu/Pairs-Trading
+https://letianzj.github.io/cointegration-pairs-trading.html
 
+- The man and the dog first leave the pub: *correlated*. 
+- The man leashes his dog: *cointegrated*. 
+- The dog begins pulling the man: *causal*. 
